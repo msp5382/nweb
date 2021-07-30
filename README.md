@@ -6,5 +6,5 @@ yeet transpiler : https://github.com/SaltyAom/yeet-transpiler
 
 ```bash
 gcc nweb32.yeet.cpp -o main
-./main
+./main 3000 . &
 ```
